@@ -1,0 +1,17 @@
+body {
+    background: url(https://images.wallpaperscraft.ru/image/single/kino_kreativ_film_74358_1280x1024.jpg); /* Фоновая картинка */
+    background-size: cover; /* Растягиваем фон */
+    background-color:RGB(188,152,126);
+   }
+   .block {
+    background: rgba(0,0,0,0.6); /* Полупрозрачный фон */
+    color: #fff; /* Цвет текста */
+    padding: 20 px; /* Поля вокруг текста */
+    /* background-color:RGB(121,85,61); */
+    background-image: url("https://w.forfun.com/fetch/64/64ad5c8d8134fcb82e62f8fbfdb2a5a7.jpeg");
+   }
+
+h5{
+    font-weight: bold;
+}
+
